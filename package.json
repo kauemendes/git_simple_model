@@ -1,0 +1,23 @@
+{
+  "name": "git_simple_model",
+  "version": "0.0.0",
+  "description": "Git Branch Model Simple Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauemendes/git_simple_model.git"
+  },
+  "keywords": [
+    "git",
+    "branch-model"
+  ],
+  "author": "Kaue Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauemendes/git_simple_model/issues"
+  },
+  "homepage": "https://github.com/kauemendes/git_simple_model#readme"
+}
